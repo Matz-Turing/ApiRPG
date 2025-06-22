@@ -36,5 +36,7 @@ O projeto está dividido em pastas por domínio: `Models`, `Views`, `ViewModels`
 
 ## Créditos
 
-Desenvolvido por Mateus S.  
-GitHub: [Matz-Turing](https://github.com/Matz-Turing)
+Desenvolvido por Mateus S.  & Vinicius T.
+
+[Matz-Turing](https://github.com/Matz-Turing),
+[TRIBUNAA](https://github.com/TRIBUNAA)
